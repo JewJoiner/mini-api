@@ -21,8 +21,8 @@ app = Flask(__name__)
 GAME_ID = "109983668079237"
 BASE_URL = f"https://games.roblox.com/v1/games/{GAME_ID}/servers/Public"
 
-MAIN_API_URL = "https://main-api-production-95b3.up.railway.app/add-pool"
-MAIN_API_STATUS = "https://main-api-production-95b3.up.railway.app/status"
+MAIN_API_URL = "https://main-api-production-74c8.up.railway.app/add-pool"
+MAIN_API_STATUS = "https://main-api-production-74c8.up.railway.app/status"
 
 REQUEST_TIMEOUT = 15
 PAGE_DELAY = 0.05
